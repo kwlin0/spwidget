@@ -2,3 +2,5 @@ numpy==1.16.2
 matplotlib==3.1.3
 scipy==1.5.4
 ipywidgets==7.6.3
+bqplot==0.12.31
+fsps==0.4.1
