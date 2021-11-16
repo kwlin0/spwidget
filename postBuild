@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+export SPS_HOME="/home/fsps"
+git clone https://github.com/cconroy20/fsps.git $SPS_HOME
