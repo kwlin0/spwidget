@@ -2,5 +2,6 @@
 
 set -e
 
-export SPS_HOME=$(pwd)
+
+export SPS_HOME="${pwd}/fsps"
 git clone https://github.com/cconroy20/fsps.git $SPS_HOME
